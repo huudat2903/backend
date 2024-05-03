@@ -1,0 +1,12 @@
+# Bỏ qua tất cả các tệp có phần mở rộng .log
+*.log
+
+# Bỏ qua thư mục node_modules hoàn toàn
+node_modules/
+
+# Bỏ qua các tệp cụ thể
+config.js
+
+# Bỏ qua tất cả các tệp .txt trừ tệp example.txt
+*.txt
+!example.txt
